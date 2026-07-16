@@ -1,0 +1,24 @@
+# Environment variables (contains API keys — never commit)
+.env
+
+# Vector store (generated locally, don't need in repo)
+chroma_db/
+
+# Uploaded PDFs saved by the app
+temp.pdf
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
+
+# Conda / IDE
+.ipynb_checkpoints/
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
