@@ -1,4 +1,4 @@
-# 📚 RAG Document Buddy
+# 📚 RAG over Documents
 
 A local-first **Retrieval-Augmented Generation (RAG)** chatbot that lets you upload a PDF and ask questions about it. Combines local embeddings, a local vector store, and a cloud-hosted LLM for generation.
 
